@@ -20,7 +20,7 @@ class ChatScreen extends StatelessWidget {
             ),
           ),
         ],
-      ), // AppBar
+      ),
       body: Center(child: Text('Logged in!')),
     );
   }
